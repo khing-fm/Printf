@@ -1,6 +1,6 @@
 ## These are the names of the Contributors to this github repository
 
-* **Adefemi Adelugba** [Mustapha's github](https://github.com/khing-fm)
+* **Adefemi Adelugba** [Adefemi's github](https://github.com/khing-fm)
 
 # To Contribute on This Project
 1. Fork the Repository.
